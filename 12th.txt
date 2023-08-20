@@ -1,0 +1,361 @@
+<html>
+<body>
+<head>
+<style>
+.showa {
+    display:block;
+    width: 80px;
+    height: 80px;
+    border-radius: 10px;
+    background-color: blanchedalmond;
+margin: 40px;
+box-shadow: 0 0 20px black ;
+
+text-decoration: none;
+font-size: larger;
+color: aliceblue;
+
+background-image: url('movie.png');
+}
+.showb {
+    display:block;
+    width: 80px;
+    height: 80px;
+    border-radius: 10px;
+    background-color: blanchedalmond;
+margin: 40px;
+font-size: larger;
+color: aliceblue;
+
+text-decoration: none;
+box-shadow: 0 0 20px black ;
+
+
+
+background-image: url('music.png');
+}
+.showc {
+    display:block;
+    width: 80px;
+    height: 80px;
+    border-radius: 10px;
+    background-color: blanchedalmond;
+margin: 40px;
+font-size: larger;
+color: aliceblue;
+
+text-decoration: none;
+
+box-shadow: 0 0 20px black ;
+
+
+background-image: url('standupcomedy.png');
+}
+.showd {
+    display:block;
+    width: 80px;
+    height: 80px;
+    border-radius: 10px;
+    background-color: blanchedalmond;
+margin: 40px;
+font-size: larger;
+color: aliceblue;
+
+text-decoration: none;
+
+box-shadow: 0 0 20px black ;
+
+
+background-image: url('sports.png');
+}
+.showe {
+    display:block;
+    width: 80px;
+    height: 80px;
+    border-radius: 10px;
+    background-color: blanchedalmond;
+margin: 40px;
+font-size: larger;
+color: aliceblue;
+box-shadow: 0 0 20px black ;
+
+text-decoration: none;
+
+
+
+background-image: url('plays.png');
+}
+.showg {
+    display:block;
+    width: 80px;
+    height: 80px;
+    border-radius: 10px;
+    background-color: blanchedalmond;
+margin: 40px;
+font-size: larger;      
+text-decoration: none;
+
+color: aliceblue;
+box-shadow: 0 0 20px black ;
+
+
+background-image: url('spirituality.png');
+}
+
+#top {
+width:1100px;
+height: 50px;
+border-radius: 20px;
+box-shadow: 0 0 20px black ;
+
+
+}
+.searching {
+    display:block;
+    width: 80px;
+    height: 50px;
+    border-radius: 10px;
+    background-color: blanchedalmond;
+margin: 40px;
+text-decoration: none;
+
+box-shadow: 0 0 20px black ;
+
+background-image: url('movie.png');
+}
+
+#top {
+width:800px;
+height: 50px;
+border-radius: 20px;
+box-shadow: 0 0 20px black ;
+
+}
+
+.searching {
+    display:block;
+    width: 80px;
+    height: 50px;
+    border-radius: 10px;
+    background-color: blanchedalmond;
+margin: 40px;
+text-decoration: none;
+
+box-shadow: 0 0 20px black ;
+
+background-image: url('movie.png');
+}
+.activities{
+
+height: 200px;
+width: 100%;
+background-color:rgb(30, 30, 81);
+}
+
+.searchhead{
+background-color:darkslateblue;
+width: 1500px;
+
+}
+
+
+.fabicon{
+border-radius: 50%;
+}       
+.options{
+border-radius: 20px;
+background: none;
+color: beige;
+box-shadow: 0 0 30px black;
+}
+.profile1 {
+    display:block;
+    width: 60px;
+    height: 60px;
+    border-radius: 50px;
+    background-color: blanchedalmond;
+position: relative;
+left: 10px;
+
+text-decoration: none;
+background-image: url('profile.png');
+}
+
+
+.showlast1{
+    display:block;
+    width: 90px;
+    height: 90px;
+    border-radius: 10px;
+    background-color: blanchedalmond;
+margin: 40px;
+
+text-decoration: none;
+
+color: aliceblue;
+box-shadow: 0 0 20px black ;
+
+
+background-image: url('customercareimage.png');
+}
+.showlast2 {
+    display:block;
+    width: 90px;
+    height: 90px;
+    border-radius: 10px;
+    background-color: blanchedalmond;
+margin: 40px;
+
+text-decoration: none;
+
+color:aliceblue;
+box-shadow: 0 0 20px black ;
+
+
+background-image: url('feedbackimage.png');
+}
+
+
+.showlast3{
+    display:block;
+    width: 90px;
+    height: 90px;
+    border-radius: 10px;
+    background-color: blanchedalmond;
+
+
+text-decoration: none;
+
+color: rgb(255, 254, 240);
+box-shadow: 0 0 20px black ;
+
+
+background-image: url('returnimage.png');
+}
+.title{
+    width:100%;
+    height: 200px;
+
+background-color: rgb(61, 61, 136);
+
+}
+
+.timing{
+    display:block;
+    width: 90px;
+    height: 30px;
+    border-radius: 5px;
+    background-color: blanchedalmond;
+margin: 40px;
+
+text-decoration: none;
+
+color: black;
+box-shadow: 0 0 20px black ;
+
+}
+.timing:hover{
+    color: red;
+    background-color: aliceblue;
+}
+.teatre{
+display:block;
+    width: 90px;
+    height: 30px;
+    border-radius: 5px;
+    background-color: blanchedalmond;
+margin: 40px;
+
+text-decoration: none;
+
+color: black;
+box-shadow: 0 0 20px black ;
+}
+
+</style>
+</head>
+<body bgcolor="antiquewhite">
+    <center><table class="searchhead">
+        <tr>
+            <td><img src="fabiconmovie.png" width="50px" height="50px" class="fabicon"></td>
+            <td><input type="text" id="top" placeholder="&nbsp;&nbsp;Search Movies,Events,Comedy,Sports,Activities"></td>
+       <td><select class="options">
+            <option><h1>Hyderabad</h1></option>
+            <option><h1>Delhi</h1></option>
+            <option><h1>Goa</h1></option>
+            <option><h1>Mumbai</h1></option>
+            <option><h1>Chennai</h1></option>
+            <option><h1>Bangolore</h1></option>
+            <option><h1>Kerala</h1></option>
+            <option><h1>View more</h1></option>
+
+        </select>
+        <td><a href="loginpage_banking.html" class="profile1"><h1></h1></a></td>
+
+        </tr>
+     </table></center>
+    
+    <center> <table class="activities">
+    <tr>
+        <td><a href="showa.html" class="showa"><br><br><br><br><br>Movies<h1></h1></a></td>
+        <td><a href="showb.html" class="showb"><br><br><br><br><br>Music<h1></h1></a></td>
+        <td><a href="showc.html" class="showc"><br><br><br><br><br>Comedy<h1></h1></a></td>
+        <td><a href="showd.html" class="showd"><br><br><br><br><br>Sports<h1></h1></a></td>
+        <td><a href="showe.html" class="showe"><br><br><br><br><br>Plays<h1></h1></a></td>
+        
+        <td><a href="showg.html" class="showg"><br><br><br><br><br>Spirituality<h1></h1></a></td>
+       
+    </tr>
+    
+ </table></center>
+
+ <center><table class="title">
+    <tr>
+        <td><h1><center>RRR----Ramcharan,Ramarao,Rajamouli</center></h1></td>
+    </tr>
+ </table>
+ <table bgcolor="violet" width="100%"><tr>
+    <td><a href="time.html" class="timing">&nbsp;&nbsp;&nbsp;&nbsp;Sat/6:00</a></td>
+    <td><a href="time.html" class="timing">&nbsp;&nbsp;&nbsp;&nbsp;Sun/5:00</a></td>
+    <td><a href="time.html" class="timing">&nbsp;&nbsp;&nbsp;&nbsp;Mon/11:00</a></td>
+    <td><a href="time.html" class="timing">&nbsp;&nbsp;&nbsp;&nbsp;Tue/2:00</a></td>
+    <td><a href="time.html" class="timing">&nbsp;&nbsp;&nbsp;&nbsp;Wed/4;00</a></td>
+    <td><a href="time.html" class="timing">&nbsp;&nbsp;&nbsp;&nbsp;Thu/9:00</a></td>
+    <td><a href="time.html" class="timing">&nbsp;&nbsp;&nbsp;&nbsp;Fri/2:00</a></td>
+
+</table>
+<center><table bgcolor="white" width="80%"><tr>
+   <td><h3>Praveen Teatre*</h3><a href="time.html" class="timing">&nbsp;&nbsp;&nbsp;&nbsp;9:00</a></td>
+    <td><a href="time.html" class="timing">&nbsp;&nbsp;&nbsp;&nbsp;11:00</a></td>
+    <td><a href="time.html" class="timing">&nbsp;&nbsp;&nbsp;&nbsp;2:00</a></td>
+    <td><a href="time.html" class="timing">&nbsp;&nbsp;&nbsp;&nbsp;5:00</a></td>
+</tr>
+<tr>
+    <td><h3>Vaishu Teatre*</h3><a href="time.html" class="timing">&nbsp;&nbsp;&nbsp;&nbsp;9:00</a></td>
+    <td><a href="time.html" class="timing">&nbsp;&nbsp;&nbsp;&nbsp;11:00</a></td>
+    <td><a href="time.html" class="timing">&nbsp;&nbsp;&nbsp;&nbsp;2:00</a></td>
+    <td><a href="time.html" class="timing">&nbsp;&nbsp;&nbsp;&nbsp;5:00</a></td>
+</tr>
+<tr>
+    <td><h3>Bharathi Teatre*</h3><a href="time.html" class="timing">&nbsp;&nbsp;&nbsp;&nbsp;9:00</a></td>
+    <td><a href="time.html" class="timing">&nbsp;&nbsp;&nbsp;&nbsp;11:00</a></td>
+    <td><a href="time.html" class="timing">&nbsp;&nbsp;&nbsp;&nbsp;2:00</a></td>
+    <td><a href="time.html" class="timing">&nbsp;&nbsp;&nbsp;&nbsp;5:00</a></td>
+</tr>
+<tr>
+    <td><h3>Divya Teatre*</h3><a href="time.html" class="timing">&nbsp;&nbsp;&nbsp;&nbsp;9:00</a></td>
+    <td><a href="time.html" class="timing">&nbsp;&nbsp;&nbsp;&nbsp;11:00</a></td>
+    <td><a href="time.html" class="timing">&nbsp;&nbsp;&nbsp;&nbsp;2:00</a></td>
+    <td><a href="time.html" class="timing">&nbsp;&nbsp;&nbsp;&nbsp;5:00</a></td>
+</tr></table></center>
+<center><table bgcolor="grey" width="100%" border-radius="10%">
+   <tr>
+       <td><a href="showx.html" class="showlast1"><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><h1>contact us</h1><br><h3></h3></h1><h1></h1></a></td>
+       <td><a href="showy.html" class="showlast2"><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><h1></h1><br><h3></h3></h1><h1></h1></a></td>
+       <td><a href="showz.html" class="showlast3"><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><h1></h1><br><h3></h3></h1><h1></h1></a></td>
+
+   </tr>
+   
+</table></center>
+</body>
+</html>

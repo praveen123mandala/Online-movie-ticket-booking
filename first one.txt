@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="cinema.css">
+    <script src="show111.js"></script>
+</head>
+<body bgcolor="antiquewhite">
+    <center><div class="heading"><h1><b><i>@POPcORN FLIX___</i></b></h1></div></center>
+    <center><input type="text" class="search" placeholder="Search"></center>
+    <a href="loginpage_banking.html" class="profile1"><h1></h1></a></td>
+
+    <div class="city"><h1>Recommended cities</h1></div>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    
+    <div class="first">
+        <a href="show1.html" class="show1"><h1></h1></a>
+        <a href="show2.html" class="show2"><h1></h1></a>
+        <a href="show1.html" class="show3"><h1></h1></a>
+        <a href="show1.html" class="show4"><h1></h1></a>
+        <a href="show1.html" class="show5"><h1></h1></a>
+        <a href="show1.html" class="show6"><h1></h1></a>
+        <a href="show1.html" class="show7"><h1></h1></a>
+        <a href="show1.html" class="show8"><h1></h1></a>
+    </div>
+</body>
+</html>

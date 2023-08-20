@@ -1,0 +1,553 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title><style>
+         
+        .showx {
+            display:block;
+            width: 265px;
+            height: 357px;
+            border-radius: 10px;
+            background-color: blanchedalmond;
+        margin: 40px;
+        
+        text-decoration: none;
+    
+    
+        
+        background-image: url('sportsposter1.png');
+        }
+        .showy {
+            display:block;
+            width: 265px;
+            height: 357px;
+            border-radius: 10px;
+            background-color: blanchedalmond;
+        margin: 40px;
+        
+        text-decoration: none;
+    
+    
+        
+        background-image: url('sportsposter2.png');
+        }
+        .showz {
+            display:block;
+            width: 265px;
+            height: 357px;
+            border-radius: 10px;
+            background-color: blanchedalmond;
+        margin: 40px;
+        
+        text-decoration: none;
+    
+    
+        
+        background-image: url('sportsposter3.png');
+        }
+        .showz1 {
+            display:block;
+            width: 265px;
+            height: 357px;
+            border-radius: 10px;
+            background-color: blanchedalmond;
+        margin: 40px;
+        
+        text-decoration: none;
+    
+    
+        
+        background-image: url('sportsposter4.png');
+        }
+        .showx1 {
+            display:block;
+            width: 265px;
+            height: 357px;
+            border-radius: 10px;
+            background-color: blanchedalmond;
+        margin: 40px;
+        
+        text-decoration: none;
+    
+    
+        
+        background-image: url('sportsposter8.png');
+        }
+        .showy1 {
+            display:block;
+            width: 265px;
+            height: 357px;
+            border-radius: 10px;
+            background-color: blanchedalmond;
+        margin: 40px;
+        
+        text-decoration: none;
+    
+    
+        
+        background-image: url('sportsposter6.png');
+        }
+        .showzz {
+            display:block;
+            width: 265px;
+            height: 357px;
+            border-radius: 10px;
+            background-color: blanchedalmond;
+        margin: 40px;
+        
+        text-decoration: none;
+    
+    
+        
+        background-image: url('sportsposter7.png');
+        }
+        .showz2 {
+            display:block;
+            width: 265px;
+            height: 357px;
+            border-radius: 10px;
+            background-color: blanchedalmond;
+        margin: 40px;
+        
+        text-decoration: none;
+    
+    
+        
+        background-image: url('sportsposter8.png');
+        }
+        .showxx1 {
+            display:block;
+            width: 265px;
+            height: 357px;
+            border-radius: 10px;
+            background-color: blanchedalmond;
+        margin: 40px;
+        
+        text-decoration: none;
+    
+    
+        
+        background-image: url('sportsposter4.png');
+        }
+        .showyy1 {
+            display:block;
+            width: 265px;
+            height: 357px;
+            border-radius: 10px;
+            background-color: blanchedalmond;
+        margin: 40px;
+        
+        text-decoration: none;
+    
+    
+        
+        background-image: url('sportsposter1.png');
+        }
+        .showzzz1 {
+            display:block;
+            width: 265px;
+            height: 357px;
+            border-radius: 10px;
+            background-color: blanchedalmond;
+        margin: 40px;
+        
+        text-decoration: none;
+    
+    
+        
+        background-image: url('airmurderposter.png');
+        }
+        .showzz2 {
+            display:block;
+            width: 265px;
+            height: 357px;
+            border-radius: 10px;
+            background-color: blanchedalmond;
+        margin: 40px;
+        
+        text-decoration: none;
+    
+    
+        
+        background-image: url('insiderposter.png');
+        }
+        @keyframes boxanim {
+            0%{
+             border: 1px solid black; 
+             background-image: url('rrrtrailer.jpg');
+             height: 400px; 
+             opacity: 1; 
+            }
+            100% {
+                border: 1px solid black;
+                background-image: url('pataan.jpg');
+                width: 90%;
+                height: 400px;
+                opacity:0;
+            }
+            50% {
+                border: 1px solid black;
+                background-image: url('dasara.jpg');
+ 
+ height: 400px;
+ opacity:1;
+            }
+            75% {
+            border: 1px solid black;
+background-image: url('sponserd.jpg');
+width:90%;
+opacity:0;
+        }
+        25% {
+            border: 1px solid black;
+background-image: url('sponserd.jpg');
+width:90%;
+opacity:0;
+        }
+
+            }
+        .sponserd {
+            margin:0 auto;
+            height:100px;
+            width:100px;
+            border: 1px solid red;
+            animation-name: boxanim;
+            animation-duration: 5s;
+            animation-iteration-count: infinite;
+            
+        }
+    
+
+        .searching {
+            display:block;
+            width: 80px;
+            height: 50px;
+            border-radius: 10px;
+            background-color: blanchedalmond;
+        margin: 40px;
+        text-decoration: none;
+    
+    box-shadow: 0 0 20px black ;
+        
+        background-image: url('movie.png');
+        }
+  
+        #top {
+    width:800px;
+    height: 50px;
+    border-radius: 20px;
+    box-shadow: 0 0 20px black ;
+    
+        }
+
+        .searching {
+            display:block;
+            width: 80px;
+            height: 50px;
+            border-radius: 10px;
+            background-color: blanchedalmond;
+        margin: 40px;
+        text-decoration: none;
+    
+    box-shadow: 0 0 20px black ;
+        
+        background-image: url('movie.png');
+        }
+.activities{
+    
+    height: 200px;
+    width: 100%;
+    background-color:rgb(30, 30, 81);
+}
+
+.searchhead{
+    background-color:darkslateblue;
+    width: 1500px;
+    
+}
+
+  
+ .fabicon{
+    border-radius: 50%;
+ }       
+.options{
+    border-radius: 20px;
+    background: none;
+    color: beige;
+    box-shadow: 0 0 30px black;
+}
+.profile1 {
+            display:block;
+            width: 60px;
+            height: 60px;
+            border-radius: 50px;
+            background-color: blanchedalmond;
+        position: relative;
+        left: 10px;
+        
+        text-decoration: none;
+        background-image: url('profile.png');
+        }
+
+        .showa {
+            display:block;
+            width: 80px;
+            height: 80px;
+            border-radius: 10px;
+            background-color: blanchedalmond;
+        margin: 40px;
+        box-shadow: 0 0 20px black ;
+
+        text-decoration: none;
+font-size: larger;
+    color: aliceblue;
+        
+        background-image: url('movie.png');
+        }
+        .showb {
+            display:block;
+            width: 80px;
+            height: 80px;
+            border-radius: 10px;
+            background-color: blanchedalmond;
+        margin: 40px;
+        font-size: larger;
+        color: aliceblue;
+
+        text-decoration: none;
+        box-shadow: 0 0 20px black ;
+
+    
+        
+        background-image: url('music.png');
+        }
+        .showc {
+            display:block;
+            width: 80px;
+            height: 80px;
+            border-radius: 10px;
+            background-color: blanchedalmond;
+        margin: 40px;
+        font-size: larger;
+        color: aliceblue;
+
+        text-decoration: none;
+    
+        box-shadow: 0 0 20px black ;
+
+        
+        background-image: url('standupcomedy.png');
+        }
+        .showd {
+            display:block;
+            width: 80px;
+            height: 80px;
+            border-radius: 10px;
+            background-color: blanchedalmond;
+        margin: 40px;
+        font-size: larger;
+        color: aliceblue;
+
+        text-decoration: none;
+    
+        box-shadow: 0 0 20px black ;
+
+        
+        background-image: url('sports.png');
+        }
+        .showe {
+            display:block;
+            width: 80px;
+            height: 80px;
+            border-radius: 10px;
+            background-color: blanchedalmond;
+        margin: 40px;
+        font-size: larger;
+        color: aliceblue;
+        box-shadow: 0 0 20px black ;
+
+        text-decoration: none;
+    
+    
+        
+        background-image: url('plays.png');
+        }
+        .showg {
+            display:block;
+            width: 80px;
+            height: 80px;
+            border-radius: 10px;
+            background-color: blanchedalmond;
+        margin: 40px;
+        font-size: larger;      
+        text-decoration: none;
+    
+        color: aliceblue;
+        box-shadow: 0 0 20px black ;
+
+        
+        background-image: url('spirituality.png');
+        }
+        .telugu {
+            display:block;
+            width: 80px;
+            height: 30px;
+            border-radius: 10px;
+            background-color: blanchedalmond;
+        margin: 40px;
+        text-decoration: none;
+    
+    box-shadow: 0 0 20px black ;
+        
+        
+        }
+        .showlast1{
+            display:block;
+            width: 90px;
+            height: 90px;
+            border-radius: 10px;
+            background-color: blanchedalmond;
+        margin: 40px;
+        
+        text-decoration: none;
+    
+        color: aliceblue;
+        box-shadow: 0 0 20px black ;
+
+        
+        background-image: url('customercareimage.png');
+        }
+        .showlast2 {
+            display:block;
+            width: 90px;
+            height: 90px;
+            border-radius: 10px;
+            background-color: blanchedalmond;
+        margin: 40px;
+        
+        text-decoration: none;
+    
+        color:aliceblue;
+        box-shadow: 0 0 20px black ;
+
+        
+        background-image: url('feedbackimage.png');
+        }
+        
+
+        .showlast3{
+            display:block;
+            width: 90px;
+            height: 90px;
+            border-radius: 10px;
+            background-color: blanchedalmond;
+        
+        
+        text-decoration: none;
+    
+        color: rgb(255, 254, 240);
+        box-shadow: 0 0 20px black ;
+
+        
+        background-image: url('returnimage.png');
+        }
+  
+        
+
+    </style>
+</head>
+<body bgcolor="antiquewhite">
+</table><br><br><br>
+<center><table class="searchhead">
+   <tr>
+       <td><img src="fabiconmovie.png" width="50px" height="50px" class="fabicon"></td>
+       <td><input type="text" id="top" placeholder="&nbsp;&nbsp;Search Movies,Events,Comedy,Sports,Activities"></td>
+  <td><select class="options">
+       <option><h1>Hyderabad</h1></option>
+       <option><h1>Delhi</h1></option>
+       <option><h1>Goa</h1></option>
+       <option><h1>Mumbai</h1></option>
+       <option><h1>Chennai</h1></option>
+       <option><h1>Bangolore</h1></option>
+       <option><h1>Kerala</h1></option>
+       <option><h1>View more</h1></option>
+
+   </select>
+   <td><a href="loginpage_banking.html" class="profile1"><h1></h1></a></td>
+
+   </tr>
+</table></center>
+
+<center> <table class="activities">
+<tr>
+   <td><a href="showa.html" class="showa"><br><br><br><br><br>Movies<h1></h1></a></td>
+   <td><a href="showb.html" class="showb"><br><br><br><br><br>Music<h1></h1></a></td>
+   <td><a href="showc.html" class="showc"><br><br><br><br><br>Comedy<h1></h1></a></td>
+   <td><a href="showd.html" class="showd"><br><br><br><br><br>Sports<h1></h1></a></td>
+   <td><a href="showe.html" class="showe"><br><br><br><br><br>Plays<h1></h1></a></td>
+   
+   <td><a href="showg.html" class="showg"><br><br><br><br><br>Spirituality<h1></h1></a></td>
+  
+</tr>
+
+</table></center><br><br><br>
+<center><img src="sportssponserd.png" width="90%" height="400" class="sponserd"></center><br><br>
+
+
+
+<table bgcolor="white"><tr><h1>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sports Events In Hyderabad</h1>
+<td><a href="showa.html" class="telugu"><center><h3>Telugu</h3></center></a></td>
+<td><a href="showa.html" class="telugu"><center><h3>Hindi</h3></center></a></td>
+<td><a href="showa.html" class="telugu"><center><h3>English</h3></center></a></td>
+<td><a href="showa.html" class="telugu"><center><h3>Korean</h3></center></a></td>
+<td><a href="showa.html" class="telugu"><center><h3>Tamil</h3></center></a></td>
+<td><a href="showa.html" class="telugu"><center><h3>Malyalam</h3></center></a></td>
+<td><a href="showa.html" class="telugu"><center><h3>Kannada</h3></center></a></td>
+<td><a href="showa.html" class="telugu"><center><h3>Punjab</h3></center></a></td>
+<td><a href="showa.html" class="telugu"><center><h3>Japanese</h3></center></a></td>
+
+
+</tr></table>
+
+</table><br><br><br>
+ </table><br><br><br>
+ <table><h1>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sports Live Now</h1>
+    <tr>
+        <td><a href="showq.html" class="showx"><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><h2></h2><h1></h1></a></td>
+        <td><a href="showq.html" class="showy"><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><h2></h2><h1></h1></a></td>
+        <td><a href="showq.html" class="showz"><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><h2></h2><h1></h1></a></td>
+        <td><a href="showq.html" class="showz1"><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><h2></h2><h1></h1></a></td>
+
+    </tr>
+    </table>
+ 
+    <table><h1>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hyderabad Sports Events</h1>
+        <tr>
+            <td><a href="showq.html" class="showx1"><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><h2></h2><h1></h1></a></td>
+            <td><a href="showq.html" class="showy1"><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><h2></h2><h1></h1></a></td>
+            <td><a href="showq.html" class="showzz"><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><h2></h2><h1></h1></a></td>
+            <td><a href="showq.html" class="showz2"><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><h2></h2><h1></h1></a></td>
+    
+        </tr>
+        </table>
+        <table><h1>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Last Shows Sports</h1>
+            <tr>
+                <td><a href="showq.html" class="showxx1"><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><h2></h2><h1></h1></a></td>
+                <td><a href="showq.html" class="showyy1"><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><h2></h2><h1></h1></a></td>
+                
+            </tr>
+            </table>
+            <center><table bgcolor="grey" width="100%" border-radius="10%">
+                <tr>
+                    <td><a href="showx.html" class="showlast1"><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><h1></h1><br><h3></h3></h1><h1></h1></a></td>
+                    <td><a href="showy.html" class="showlast2"><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><h1></h1><br><h3></h3></h1><h1></h1></a></td>
+                    <td><a href="showz.html" class="showlast3"><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><h1></h1><br><h3></h3></h1><h1></h1></a></td>
+            
+                </tr>
+                
+             </table></center>
+</body>
+</html>

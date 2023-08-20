@@ -1,0 +1,17 @@
+
+function tops(){
+    const search= document.getElementById("topper").value;
+    
+
+
+    if(search=="praveen"){
+    alert("login succesfully");
+    window.location="showb.html";
+    return false;
+    }
+    else{
+        alert("incorrect");
+
+    }
+    
+}

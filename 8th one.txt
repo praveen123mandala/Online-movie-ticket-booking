@@ -1,0 +1,211 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title><style>
+         
+        .showx {
+            display:block;
+            width: 265px;
+            height: 357px;
+            border-radius: 10px;
+            background-color: blanchedalmond;
+        margin: 40px;
+        
+        text-decoration: none;
+    
+    
+        
+        background-image: url('comedyposter3.png');
+        }
+        .showy {
+            display:block;
+            width: 265px;
+            height: 357px;
+            border-radius: 10px;
+            background-color: blanchedalmond;
+        margin: 40px;
+        
+        text-decoration: none;
+    
+    
+        
+        background-image: url('comedyposter4.png');
+        }
+        .showz {
+            display:block;
+            width: 265px;
+            height: 357px;
+            border-radius: 10px;
+            background-color: blanchedalmond;
+        margin: 40px;
+        
+        text-decoration: none;
+    
+    
+        
+        background-image: url('comedyposter5.png');
+        }
+        .showz1 {
+            display:block;
+            width: 265px;
+            height: 357px;
+            border-radius: 10px;
+            background-color: blanchedalmond;
+        margin: 40px;
+        
+        text-decoration: none;
+    
+    
+        
+        background-image: url('comedyposter6.png');
+        }
+        .showx1 {
+            display:block;
+            width: 265px;
+            height: 357px;
+            border-radius: 10px;
+            background-color: blanchedalmond;
+        margin: 40px;
+        
+        text-decoration: none;
+    
+    
+        
+        background-image: url('comedyposter7.png');
+        }
+        .showy1 {
+            display:block;
+            width: 265px;
+            height: 357px;
+            border-radius: 10px;
+            background-color: blanchedalmond;
+        margin: 40px;
+        
+        text-decoration: none;
+    
+    
+        
+        background-image: url('comedyposter8.png');
+        }
+        .showzz {
+            display:block;
+            width: 265px;
+            height: 357px;
+            border-radius: 10px;
+            background-color: blanchedalmond;
+        margin: 40px;
+        
+        text-decoration: none;
+    
+    
+        
+        background-image: url('comedyposter4.png');
+        }
+        .showz2 {
+            display:block;
+            width: 265px;
+            height: 357px;
+            border-radius: 10px;
+            background-color: blanchedalmond;
+        margin: 40px;
+        
+        text-decoration: none;
+    
+    
+        
+        background-image: url('comedyposter10.png');
+        }
+        .showxx1 {
+            display:block;
+            width: 265px;
+            height: 357px;
+            border-radius: 10px;
+            background-color: blanchedalmond;
+        margin: 40px;
+        
+        text-decoration: none;
+    
+    
+        
+        background-image: url('comedyposter11.png');
+        }
+        .showyy1 {
+            display:block;
+            width: 265px;
+            height: 357px;
+            border-radius: 10px;
+            background-color: blanchedalmond;
+        margin: 40px;
+        
+        text-decoration: none;
+    
+    
+        
+        background-image: url('comedyposter6.png');
+        }
+        .showzzz1 {
+            display:block;
+            width: 265px;
+            height: 357px;
+            border-radius: 10px;
+            background-color: blanchedalmond;
+        margin: 40px;
+        
+        text-decoration: none;
+    
+    
+        
+        background-image: url('airmurderposter.png');
+        }
+        .showzz2 {
+            display:block;
+            width: 265px;
+            height: 357px;
+            border-radius: 10px;
+            background-color: blanchedalmond;
+        margin: 40px;
+        
+        text-decoration: none;
+    
+    
+        
+        background-image: url('insiderposter.png');
+        }
+       
+    </style>
+</head>
+<body bgcolor="black">
+ </table><br><br><br>
+ <center><img src="sponserd.jpg" width="90%" height="400"></center><br><br>
+ <table><caption><h1>Music Festivals...</h1></caption>
+    <tr>
+        <td><a href="showx.html" class="showx"><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><h2></h2><h1></h1></a></td>
+        <td><a href="showy.html" class="showy"><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><h2></h2><h1></h1></a></td>
+        <td><a href="showz.html" class="showz"><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><h2></h2><h1></h1></a></td>
+        <td><a href="showz1.html" class="showz1"><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><h2></h2><h1></h1></a></td>
+
+    </tr>
+    </table>
+ 
+    <table>
+        <tr>
+            <td><a href="showx1.html" class="showx1"><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><h2></h2><h1></h1></a></td>
+            <td><a href="showy1.html" class="showy1"><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><h2></h2><h1></h1></a></td>
+            <td><a href="showzz.html" class="showzz"><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><h2></h2><h1></h1></a></td>
+            <td><a href="showz2.html" class="showz2"><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><h2></h2><h1></h1></a></td>
+    
+        </tr>
+        </table>
+        <table><caption><h1>Last music Party</h1></caption>
+            <tr>
+                <td><a href="showxx1.html" class="showxx1"><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><h2></h2><h1></h1></a></td>
+                <td><a href="showyy1.html" class="showyy1"><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><h2></h2><h1></h1></a></td>
+                
+            </tr>
+            </table>
+           
+</body>
+</html>

@@ -1,0 +1,485 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+<style>
+        .review {
+        display: inline-block;
+        border-radius: 10px;
+        width:90%;
+        height:400px;
+        background-color:goldenrod;
+        text-decoration: none;
+        margin: 40px;
+        text-decoration-color: darkgoldenrod;
+
+    }
+    .show3D {
+            display:block;
+            width: 200px;
+            height: 60px;
+            border-radius: 10px;
+            background-color: blanchedalmond;
+        margin: 40px;
+        
+        text-decoration: none;
+    }
+    .showmv {
+            display:block;
+            width: 200px;
+            height: 60px;
+            border-radius: 10px;
+            background-color: blanchedalmond;
+        margin: 40px;
+        
+        text-decoration: none;
+    }
+    .content {
+            display:block;
+            width: 100%;
+            height: 300px;
+            border-radius: 10px;
+            background-color: blanchedalmond;
+        margin: 40px;
+        
+        text-decoration: none;
+    }
+    .offer {
+        display:block;
+            width: 70%;
+            height: 100px;
+            border-radius: 10px;
+            background-color: blanchedalmond;
+        margin: 40px;
+        
+        text-decoration: none;
+        border:3px dashed black;
+        color: black;
+        
+
+    }
+    .book {
+        display:block;
+            width: 90%;
+            height: 60px;
+            border-radius: 10px;
+            background-color:greenyellow;
+        margin: 40px;
+        
+        text-decoration: none;
+        
+        color: black;
+        
+
+    }
+
+        .searching {
+            display:block;
+            width: 80px;
+            height: 50px;
+            border-radius: 10px;
+            background-color: blanchedalmond;
+        margin: 40px;
+        text-decoration: none;
+    
+    box-shadow: 0 0 20px black ;
+        
+        background-image: url('movie.png');
+        }
+  
+        #top {
+    width:800px;
+    height: 50px;
+    border-radius: 20px;
+    box-shadow: 0 0 20px black ;
+    
+        }
+
+        .searching {
+            display:block;
+            width: 80px;
+            height: 50px;
+            border-radius: 10px;
+            background-color: blanchedalmond;
+        margin: 40px;
+        text-decoration: none;
+    
+    box-shadow: 0 0 20px black ;
+        
+        background-image: url('movie.png');
+        }
+.activities{
+    
+    height: 200px;
+    width: 100%;
+    background-color:rgb(30, 30, 81);
+}
+
+.searchhead{
+    background-color:darkslateblue;
+    width: 1500px;
+    
+}
+
+  
+ .fabicon{
+    border-radius: 50%;
+ }       
+.options{
+    border-radius: 20px;
+    background: none;
+    color: beige;
+    box-shadow: 0 0 30px black;
+}
+.profile1 {
+            display:block;
+            width: 60px;
+            height: 60px;
+            border-radius: 50px;
+            background-color: blanchedalmond;
+        position: relative;
+        left: 10px;
+        
+        text-decoration: none;
+        background-image: url('profile.png');
+        }
+
+        .showa {
+            display:block;
+            width: 80px;
+            height: 80px;
+            border-radius: 10px;
+            background-color: blanchedalmond;
+        margin: 40px;
+        box-shadow: 0 0 20px black ;
+
+        text-decoration: none;
+font-size: larger;
+    color: aliceblue;
+        
+        background-image: url('movie.png');
+        }
+        .showb {
+            display:block;
+            width: 80px;
+            height: 80px;
+            border-radius: 10px;
+            background-color: blanchedalmond;
+        margin: 40px;
+        font-size: larger;
+        color: aliceblue;
+
+        text-decoration: none;
+        box-shadow: 0 0 20px black ;
+
+    
+        
+        background-image: url('music.png');
+        }
+        .showc {
+            display:block;
+            width: 80px;
+            height: 80px;
+            border-radius: 10px;
+            background-color: blanchedalmond;
+        margin: 40px;
+        font-size: larger;
+        color: aliceblue;
+
+        text-decoration: none;
+    
+        box-shadow: 0 0 20px black ;
+
+        
+        background-image: url('standupcomedy.png');
+        }
+        .showd {
+            display:block;
+            width: 80px;
+            height: 80px;
+            border-radius: 10px;
+            background-color: blanchedalmond;
+        margin: 40px;
+        font-size: larger;
+        color: aliceblue;
+
+        text-decoration: none;
+    
+        box-shadow: 0 0 20px black ;
+
+        
+        background-image: url('sports.png');
+        }
+        .showe {
+            display:block;
+            width: 80px;
+            height: 80px;
+            border-radius: 10px;
+            background-color: blanchedalmond;
+        margin: 40px;
+        font-size: larger;
+        color: aliceblue;
+        box-shadow: 0 0 20px black ;
+
+        text-decoration: none;
+    
+    
+        
+        background-image: url('plays.png');
+        }
+        .showg {
+            display:block;
+            width: 80px;
+            height: 80px;
+            border-radius: 10px;
+            background-color: blanchedalmond;
+        margin: 40px;
+        font-size: larger;      
+        text-decoration: none;
+    
+        color: aliceblue;
+        box-shadow: 0 0 20px black ;
+
+        
+        background-image: url('spirituality.png');
+        }
+        .showlast1{
+            display:block;
+            width: 90px;
+            height: 90px;
+            border-radius: 10px;
+            background-color: blanchedalmond;
+        margin: 40px;
+        
+        text-decoration: none;
+    
+        color: aliceblue;
+        box-shadow: 0 0 20px black ;
+
+        
+        background-image: url('customercareimage.png');
+        }
+        .showlast2 {
+            display:block;
+            width: 90px;
+            height: 90px;
+            border-radius: 10px;
+            background-color: blanchedalmond;
+        margin: 40px;
+        
+        text-decoration: none;
+    
+        color:aliceblue;
+        box-shadow: 0 0 20px black ;
+
+        
+        background-image: url('feedbackimage.png');
+        }
+        
+
+        .showlast3{
+            display:block;
+            width: 90px;
+            height: 90px;
+            border-radius: 10px;
+            background-color: blanchedalmond;
+        
+        
+        text-decoration: none;
+    
+        color: rgb(255, 254, 240);
+        box-shadow: 0 0 20px black ;
+
+        
+        background-image: url('returnimage.png');
+        }
+        .cast1 {
+            display:block;
+            width: 120px;
+            height: 120px;
+            border-radius: 50%;
+            background-color: blanchedalmond;
+        margin: 40px;
+        box-shadow: 0 0 20px black ;
+
+        text-decoration: none;
+font-size: larger;
+    color: aliceblue;
+        color: black;
+        background-image: url('dasaracast1.png');
+        }
+        .cast2 {
+            display:block;
+            width: 120px;
+            height: 120px;
+            border-radius: 50%;
+            background-color: blanchedalmond;
+        margin: 40px;
+        font-size: larger;
+        color: aliceblue;
+        color: black;
+
+        text-decoration: none;
+        box-shadow: 0 0 20px black ;
+
+    
+        
+        background-image: url('dasaracast2.png');
+        }
+        .cast3 {
+            display:block;
+            width: 120px;
+            height: 120px;
+            border-radius: 50%;
+            background-color: blanchedalmond;
+        margin: 40px;
+        font-size: larger;
+        color: aliceblue;
+
+        text-decoration: none;
+    
+        box-shadow: 0 0 20px black ;
+
+        color: black;
+
+        background-image: url('dasaracast3.png');
+        }
+        .cast4 {
+            display:block;
+            width: 120px;
+            height: 120px;
+            border-radius: 50%;
+            background-color: blanchedalmond;
+        margin: 40px;
+        font-size: larger;
+        color: aliceblue;
+
+        text-decoration: none;
+    
+        box-shadow: 0 0 20px black ;
+
+        color: black;
+
+        background-image: url('dasaracast4.png');
+        }
+        .cast5 {
+            display:block;
+            width: 120px;
+            height: 120px;
+            border-radius: 50%;
+            background-color: blanchedalmond;
+        margin: 40px;
+        font-size: larger;
+        color: aliceblue;
+        box-shadow: 0 0 20px black ;
+
+        text-decoration: none;
+    
+        color: black;
+
+        
+        background-image: url('dasaracast5.png');
+        }
+        .cast6 {
+            display:block;
+            width: 120px;
+            height: 120px;
+            border-radius: 50%;
+            background-color: blanchedalmond;
+        margin: 40px;
+        font-size: larger;      
+        text-decoration: none;
+        color: black;
+
+        
+        box-shadow: 0 0 20px black ;
+
+        
+        background-image: url('dasaracast6.png');
+        }
+</style>
+</head>
+<body>
+</table><br><br><br>
+<center><table class="searchhead">
+   <tr>
+       <td><img src="fabiconmovie.png" width="50px" height="50px" class="fabicon"></td>
+       <td><input type="text" id="top" placeholder="&nbsp;&nbsp;Search Movies,Events,Comedy,Sports,Activities"></td>
+  <td><select class="options">
+       <option><h1>Hyderabad</h1></option>
+       <option><h1>Delhi</h1></option>
+       <option><h1>Goa</h1></option>
+       <option><h1>Mumbai</h1></option>
+       <option><h1>Chennai</h1></option>
+       <option><h1>Bangolore</h1></option>
+       <option><h1>Kerala</h1></option>
+       <option><h1>View more</h1></option>
+
+   </select>
+   <td><a href="loginpage_banking.html" class="profile1"><h1></h1></a></td>
+
+   </tr>
+</table></center>
+
+<center> <table class="activities">
+<tr>
+   <td><a href="showa.html" class="showa"><br><br><br><br><br>Movies<h1></h1></a></td>
+   <td><a href="showb.html" class="showb"><br><br><br><br><br>Music<h1></h1></a></td>
+   <td><a href="showc.html" class="showc"><br><br><br><br><br>Comedy<h1></h1></a></td>
+   <td><a href="showd.html" class="showd"><br><br><br><br><br>Sports<h1></h1></a></td>
+   <td><a href="showe.html" class="showe"><br><br><br><br><br>Plays<h1></h1></a></td>
+   
+   <td><a href="showg.html" class="showg"><br><br><br><br><br>Spirituality<h1></h1></a></td>
+  
+</tr>
+</table></center>
+
+  <div><iframe width="100%" height="315" src="C:\Users\prave\Downloads\Dasara - Official Trailer _ Nani _ Keerthy Suresh _ Santhosh Narayanan _ Srikanth Odela.mp4" frameborder="0" allowfullscreen></iframe></div><br>
+  <table>
+    <tr>
+        <td><div class="show3D"><center>2D,3D.IMAX 2D,IMAX 3D</center></td><br><br>
+        <td><div class="showmv"><center>TELUGU,HINDI,ENGLISH....</center></td>
+        
+
+    </tr>
+   </table>
+ <div><h1>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;About The Movie</h1></div><br>
+ <div><h2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Manas, an ex-factory floor manager loses his job during the pandemic. He is then forced to work as a food delivery rider,<div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; grappling with the app and the world of ratings and incentives.
+ Life is relentless for him, but not without shared moments</div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; of joy with his wife, Pratima.The film captures the life of invisible `ordinary` people, hidden in plain sight.</h2><hr width="90%">
+ <h1>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Applicable Offers</h1>
+ <a href="offer" class="offer" width="400px"><center><h2>Streaming Movies For Free</h2><div><h3>Watch Online,Limited Period Offer</h3></div></center></a>
+ <hr width="90%">
+ <h1>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cast</h1>
+ <table class="cast">
+    <tr>
+       <td><a href="showa.html" class="cast1"><br><br><br><br><br><br><br>Nani<h1></h1></a></td>
+       <td><a href="showb.html" class="cast2"><br><br><br><br><br><br><br>Rashmika<h1></h1></a></td>
+       <td><a href="showc.html" class="cast3"><br><br><br><br><br><br><br>Zarina<h1></h1></a></td>
+       <td><a href="showd.html" class="cast4"><br><br><br><br><br><br><br>Deekshith<h1></h1></a></td>
+       <td><a href="showe.html" class="cast5"><br><br><br><br><br><br><br>Tom<h1></h1></a></td>
+       
+       <td><a href="showg.html" class="cast6"><br><br><br><br><br><br><br>Sai Kumar<h1></h1></a></td>
+      
+    </tr>
+    </table><br><br><br>
+    <hr width="90%">
+
+  <a href="review.html" class="review">Add your rating and review.....rating matters<center><h1>Review</h1></center><div><h2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Top reviews<br><br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dasara movie is  great movie which i never saw ever</h2><br><br><br></div><center><h1>GIVE YOUR REVIEWS</h1></center></a>
+-
+
+
+<a href="showq.html" class="book"><center><h1>Book Tickets</h1></center></a>
+<center><table bgcolor="grey" width="100%" border-radius="10%">
+    <tr>
+        <td><a href="showx.html" class="showlast1"><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><h1>contact us</h1><br><h3></h3></h1><h1></h1></a></td>
+        <td><a href="showy.html" class="showlast2"><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><h1></h1><br><h3></h3></h1><h1></h1></a></td>
+        <td><a href="showz.html" class="showlast3"><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><h1></h1><br><h3></h3></h1><h1></h1></a></td>
+
+    </tr>
+    
+ </table></center>
+</body>
+</html>
